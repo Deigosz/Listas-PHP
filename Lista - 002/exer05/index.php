@@ -6,7 +6,7 @@
     <title>Exercícios</title>
 </head>
 <body>
-    <form action="exercicio5.php" method="post">
+    <form action="exercicio05.php" method="post">
         <?php
         for ($i = 1; $i <= 20; $i++) {
             echo '<input type="number" name="numeros[]" id="numero">';
