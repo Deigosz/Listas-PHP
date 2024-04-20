@@ -6,7 +6,7 @@
     <title>Exercícios</title>
 </head>
 <body>
-    <form action="exer8/exercicio08.php" method="post">
+    <form action="exercicio08.php" method="post">
         <label>Informe o tamanho da área em m² :</label><br>
         <input type="number" name="valor"><br>
         <button type="submit">Enviar</button>
