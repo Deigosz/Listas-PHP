@@ -14,7 +14,7 @@
     </style>
 </head>
 <body>
-    <form action="exercicio4.php" method="post">
+    <form action="exercicio04.php" method="post">
         <input type="number" name="numero" placeholder="Digite um número entre 1 e 12" min="1" max="12">
         <button type="submit">Enviar</button>
     </form>
