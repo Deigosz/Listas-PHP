@@ -6,7 +6,7 @@
     <title>Exercícios</title>
 </head>
 <body>
-    <form action="exer5/exercicio05.php" method="post">
+    <form action="exercicio05.php" method="post">
         <label>Informe um número: </label>
         <input type="number" name="numero">
         <button type="submit">Enviar</button>
